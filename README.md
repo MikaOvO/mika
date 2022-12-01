@@ -8,7 +8,7 @@ hello~ 这里是卢子辰（米咔），2024届毕业生
 
 * acmer
   * icpc两金（南京、沈阳），ccpc两金（哈尔滨，广州），[ccsp金（rank18）](https://www.cspro.org/cms/show.action?code=publish_8ac21fad707fc04d01708c212a280097&siteid=100000&newsid=9698e3cf70db46dc915e05e839da30e9&channelid=0000000113#ccsp2020)，山东省赛冠军
-  * [codeforces 2299](https://codeforces.com/profile/QAQmika)，[leetcode 2778](https://leetcode.cn/u/mi-ka-d/) 
+  * [codeforces 2299](https://codeforces.com/profile/QAQmika)，[leetcode 2815](https://leetcode.cn/u/mi-ka-d/) 
 * AI竞赛
   * 天池冠军（联邦学习+图）
   * [ccf-bdci亚军（数据挖掘+ML）](https://github.com/MikaOvO/2021CCF_BDCI)
